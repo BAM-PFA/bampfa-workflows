@@ -22,9 +22,9 @@ This document should provide a pretty comprehensive guide to naming files at BAM
   * [Press Clippings for Exhibitions](#press-clippings-for-exhibitions)
   * [Institutional (and Event) Images](#institutional-images)
   * [Funder/Partner Institution Logos](#funder-or-partner-institution-logos)
-  * [AV Material Cataloged in the PFA Collection Database](audiovisual-material-cataloged-in-the-pfa-collection-database)
-  * [Audio Material Cataloged in the BAMPFA Audio Database](audio-material-cataloged-in-the-bampfa-audio-database)
-  * [Born-digital Video Captured In-House](born-digital-moving-images-created-in-house)
+  * [AV Material Cataloged in the PFA Collection Database](#audiovisual-material-cataloged-in-the-pfa-collection-database)
+  * [Audio Material Cataloged in the BAMPFA Audio Database](#audio-material-cataloged-in-the-bampfa-audio-database)
+  * [Born-digital Video Captured In-House](#born-digital-moving-images-created-in-house)
 
 ## General Information
 
@@ -360,10 +360,10 @@ Examples include Osher theater lectures, panels, guest filmmakers, etc.; event d
 
 General structure
 
-** YYYY-M(M)-DD Main topic Optional sub-topic/descriptor.extension **
+**YYYY-M(M)-DD Main topic Optional sub-topic/descriptor.extension**
 
 Examples:
 
-* 2019-1-16 Everlasting Moments intro.mov
-* 2019-1-16 Everlasting Moments QA.mov
-* 2019-1-31 Adaptation and Transformation with Mary Zimmerman and Stan Lai.mov
+* **2019-1-16 Everlasting Moments intro.mov**
+* **2019-1-16 Everlasting Moments QA.mov**
+* **2019-1-31 Adaptation and Transformation with Mary Zimmerman and Stan Lai.mov**
