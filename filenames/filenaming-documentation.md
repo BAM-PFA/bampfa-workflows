@@ -1,4 +1,4 @@
-# BAMPFA Filenaming Guidelines 
+# BAMPFA Filenaming Guidelines
 
 Updated 2019-02-01
 
@@ -9,10 +9,25 @@ This document should provide a pretty comprehensive guide to naming files at BAM
 * [General info](#general-information)
   * [Special Characters](#special-characters)
   * [Filename Sections](#filename-sections)
-  * 
- 
+  * [Initial Articles](#initial-articles)
+  * [Abbreviations](#abbreviations)
+  * [Alternative Spellings](#alternative-spellings)
+  * [Numbering](#numbering)
+  * [Date Formats](#date-formatting)
+
+* [Types of filenames](#types-of-filenames)
+  * [Artworks *Not* Accessioned by BAMPFA](#artworks-not-accessioned-by-bampfa)
+  * [BAMPFA Art Permanent Collection](#bampfa-permanent-art-collection)
+  * [Gallery Installation Images](#gallery-installation-images)
+  * [Press Clippings for Exhibitions](#press-clippings-for-exhibitions)
+  * [Institutional (and Event) Images](#institutional-images)
+  * [Funder/Partner Institution Logos](#funder-or-partner-institution-logos)
+  * [AV Material Cataloged in the PFA Collection Database](audiovisual-material-cataloged-in-the-pfa-collection-database)
+  * [Audio Material Cataloged in the BAMPFA Audio Database](audio-material-cataloged-in-the-bampfa-audio-database)
+  * [Born-digital Video Captured In-House](born-digital-moving-images-created-in-house)
+
 ## General Information
- 
+
 ### Length
 
 Try to keep filenames under 64 characters, including hyphens (-), underscores (_), and file extensions (.jpg, .tif, .doc, etc.).
@@ -25,34 +40,34 @@ Do not use ANY special characters or punctuation in a file name. It will cause h
 ( ) @ / \ : * ? " < > ' ; +=¨
 
 Only use underscores, (_), hyphens (-), and alphanumerics (a-z, 0-9). If you have a special character in a title (I ♥ Huckabees, for example), spell out the word "heart" instead of using the special character.  Omit accents from áccented wórds or nämes; ¿leave.out.all.punctuation?: unnecessary apostrophe's, commas; colons + etc.
- 
+
 **AVOID USING ALL CAPS**
- 
-Avoid using periods in filenames other than a single period before the file type extension (.tif, .jpg, .doc, etc.). 
+
+Avoid using periods in filenames other than a single period before the file type extension (.tif, .jpg, .doc, etc.).
 
 ### Filename Sections
-Divide "areas" of the filename (e.g., artist name, title of a work) with underscores and words within an "area" with hyphens. e.g. LastName_Title-of-work. Please do not use underscores between words unless they separate conceptually distinct "areas" of the file name. 
+Divide "areas" of the filename (e.g., artist name, title of a work) with underscores and words within an "area" with hyphens. e.g. LastName_Title-of-work. Please do not use underscores between words unless they separate conceptually distinct "areas" of the file name.
 
-Example: 
+Example:
 
 > **Chase-Riboud_All-that-rises_001.jpg**
 
-not 
+not
 
 > **Chase_Riboud_All_that_rises_001.jpg**
 
 For multi-word last names, use hyphens between words.
 
-Example: 
+Example:
 
 * For an image of Lars von Trier's *Breaking the Waves*
   * **von-Trier_Breaking-the-Waves_001.tif**
 
 ### Intial articles
 
-Omit initial articles from a title in a filename, in all languages (the, an, a, der, los, les, etc.). Any articles later in the title itself should stay in the filename. The full title, with articles, should be entered in the Title field in the metadata. 
+Omit initial articles from a title in a filename, in all languages (the, an, a, der, los, les, etc.). Any articles later in the title itself should stay in the filename. The full title, with articles, should be entered in the Title field in the metadata.
 
-Examples: 
+Examples:
 
 * For an image of Michael Powell's film *The Red Shoes*
   * **Powell_Red-Shoes_001.jpg**
@@ -63,20 +78,20 @@ Examples:
 * For Pablo Picasso's *Les Desmoiselles d'Avignon*
   * **Picasso_Desmoiselles-d-Avignon_001.jpg**
   * Metadata field `Title` should read "Les Desmoiselles d'Avignon"
- 
+
 ### Abbreviations
 
 Don't.
 
 Include the full name of an artwork whenever possible. If you need to truncate because of length, do not abbreviate words; instead, use as many entire words as possible.
 
-Example: 
+Example:
 * For W.D. Richter's *The Adventures of Buckaroo Bonzai Across the 8th Dimension
   * **Richter_Adventures-of-Buckaroo-Bonzai-Across_001.jpg**
   * (not **Adv-Buck-Bonz-Acr-8th-Dim** not **Buckaroo-Bonzai** not **A-B-B-A-t-8th-D**)
 
 ### Alternative spellings
-When the title of an artwork or the name of an artist has various forms or spellings, default to the form of the name/title used in the most recent BAMPFA program guide. If the name  or title has not appeared in the program guide and there is no preferred spelling/form indicated by the BAMPFA style guide, default to the form found in the [Getty Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/), the [Library of Congress Name Authority](http://authorities.loc.gov/), or another reference source: for film titles, try Variety or Film Index International (contact library staff for help connecting to these). 
+When the title of an artwork or the name of an artist has various forms or spellings, default to the form of the name/title used in the most recent BAMPFA program guide. If the name  or title has not appeared in the program guide and there is no preferred spelling/form indicated by the BAMPFA style guide, default to the form found in the [Getty Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/), the [Library of Congress Name Authority](http://authorities.loc.gov/), or another reference source: for film titles, try Variety or Film Index International (contact library staff for help connecting to these).
 
 Examples:
 * For the artist 艾未未:
@@ -91,15 +106,15 @@ Examples:
   * **Breathless** not **À bout de souffle**
 
 ### Numbering
-Use three digits to indicate the image sequence number or view number: 
+Use three digits to indicate the image sequence number or view number:
 
 Examples: **_001**, **_002**, etc. not **_1**, **_2**.
 
-Use these numbers even if we currently have only one image for a particular work--there may well be more on the way!  If we have more than one image pertaining to a particular work, number them consecutively. 
+Use these numbers even if we currently have only one image for a particular work--there may well be more on the way!  If we have more than one image pertaining to a particular work, number them consecutively.
 
 Please check that we do not already have images of the same work in Piction before labeling your image _001. If there are already images, start your numbering where they leave off. Example: if we have 001-004, you would start at 005.
 
-Example: 
+Example:
 
 **von-Trier_Breaking-the-Waves_001.tif**
 
@@ -114,18 +129,18 @@ For single dates, use the format **YYYY-MM-DD**
 For other date formats, such as specific months, three-month calendar periods, separate year from month or day with a hyphen and use underscores to separate other date information. For example 2011-07-08 means July 8, 2011 whereas 2011-07_08 means July–August 2011. *[MCQ note 2019/02: this is probably in need of revision]*
 
 ## Types of File Names
- 
+
 ### Artworks NOT accessioned by BAMPFA
 
 **General structure:**
 
 > ArtistLastName_Title-Of-Work_Optional-date-if-known_number.filetype
 
-Examples: 
+Examples:
 
 > Baldesarri_I-Am-Making-Art_1971_001.tif
 
-or: 
+or:
 
 > Baldesarri_I-Am-Making-Art_001.tif
 
@@ -145,7 +160,7 @@ __Films by one director:__
 
 > DirectorLastName_Title-of-film_number.filetype
 
-Example: 
+Example:
 
 > Wyler_Roman-Holiday_001.jpg
 
@@ -155,7 +170,7 @@ Use the word "Collaboration" in place of the directors' names.
 
 > Collaboration_Title-of-film_number.filetype
 
-Example: 
+Example:
 
 > Collaboration_Kinshasa-Symphony_001.jpg
 
@@ -171,9 +186,9 @@ Example:
 
 Example:  **bampfa_1960-69-2_003_1.tif**
 
-For BAM collection items, replace periods in accession numbers with hyphens. 
+For BAM collection items, replace periods in accession numbers with hyphens.
 
-Example: 
+Example:
 * For the painting with accession number 1998.42.5:
   * **bampfa_1998-42-5_001_1.tif**
 
@@ -204,7 +219,7 @@ Example: **Install_Create_2011_002.tif**
 
 For the MFA exhibits, the exhibition name is just **MFA**
 
-Example: **Install_MFA_2011_001.tif** 
+Example: **Install_MFA_2011_001.tif**
 
 For MATRIX exhibits, exhibition name is just "matrix" and the MATRIX exhibition number with a hyphen.
 
@@ -225,7 +240,7 @@ General structure:
 
 **General structure:**
 
-> Type_Keyword_Descriptive-Name_full-date_number.filetype 
+> Type_Keyword_Descriptive-Name_full-date_number.filetype
 
 Example: **Event_Late_Early-the-sun-part-one_2012-02-05_001.jpg**
 
@@ -279,14 +294,14 @@ Examples:
 ---
 
 ### Funder or Partner Institution Logos
- 
+
 **General Structure:**
 > Institution-name_logo_other-information.filetype
 
 Examples:
 * **NEA-Artworks_logo_cmyk.eps**
 * **East-Bay-Express_logo_white_small.jpg**
- 
+
 Retain any original information about the filetype, version, or size in which the logo came from the funding institution. Remove any characters or spacing that don't comply with our system. If an institution supplies new or updated logos over time, record the logo year as a subfolder and note it in the metadata.
 
 ---
@@ -302,7 +317,7 @@ Metadata about these materials is found in the PFA FileMaker Collection Manageme
 > title-without-lead-article_last-5-digits-of-pfa-accession#_barcode_r##of##.extension
 
 Examples:
-* Battleship Potemkin, 6 reels of 35mm, PFA Accession number 3500-01-498: 
+* Battleship Potemkin, 6 reels of 35mm, PFA Accession number 3500-01-498:
    * **battleship-potemkin_00498_pm0067890_r01of06.mov**
 
 * A woman is a woman, 16mm, PFA Accession number 1620-01-14322
@@ -310,9 +325,11 @@ Examples:
 
 ---
 
-### Audio material cataloged in the BAMPFA audio database (WIP)
+### Audio material cataloged in the BAMPFA audio database
 
-Files can be either born-digital or digitized audio cassettes. Examples are primarily guest speakers in the BAMPFA film program (guest filmmakers in the theater, Q&A sessions, etc.). 
+**(WIP)**
+
+Files can be either born-digital or digitized audio cassettes. Examples are primarily guest speakers in the BAMPFA film program (guest filmmakers in the Osher theater, Q&A sessions, etc.).
 
 Metadata about these materials is found in the BAMFA audio FileMaker database . The recording ID number in the filename is parsed on ingest to our digital repository to link descriptive metadata with the files.
 
@@ -327,9 +344,7 @@ Examples:
 * George Kuchar discussing his films on May 3rd 1983, with recording in side A and side B:
   * bampfa-audio_01456_19830503_George-Kuchar_a.wav
   * bampfa-audio_01456_19830503_George-Kuchar_b.wav
-* 
-
-
+*
 
 ---
 
@@ -340,3 +355,15 @@ Examples include Osher theater lectures, panels, guest filmmakers, etc.; event d
 **THIS ALSO NEEDS TO BE CONFIRMED WITH DIGITAL MEDIA AND COMMUNICATIONS STAFF**
 
 **: P**
+
+#### Videorecordings of Osher Theater guests
+
+General structure
+
+** YYYY-M(M)-DD Main topic Optional sub-topic/descriptor.extension **
+
+Examples:
+
+* 2019-1-16 Everlasting Moments intro.mov
+* 2019-1-16 Everlasting Moments QA.mov
+* 2019-1-31 Adaptation and Transformation with Mary Zimmerman and Stan Lai.mov

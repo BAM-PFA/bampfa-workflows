@@ -5,7 +5,7 @@ General structure:
 
 **ArtistLastName_Title-Of-Work_Optional-date-if-known_number.filetype**
 
-Examples: 
+Examples:
 * Baldesarri_I-Am-Making-Art_1971_001.tif
 * Unknown_Bodhisattva-Padmapani_001.tif
 * Cronenberg_Crash_1996_004.tif
@@ -31,7 +31,7 @@ Examples:
 
 ## Events and other "museum life" images
 
-General structure: 
+General structure:
 
 **Type_Keyword_Descriptive-Name_full-date_number.filetype**
 
@@ -60,10 +60,22 @@ Examples:
 
 * Cassette digitized with A and B sides:
   * bampfa-audio_03991_a.wav, bampfa-audio_03991_b.wav
+    * A side derivative:
+      * bampfa-audio_03991_a_access.mp3
 * Born-digital recording captured in Osher theater:
   * bampfa-audio_04987.wav
 
+## Videorecordings of Osher Theater guests
 
+General structure
+
+** YYYY-M(M)-DD Main topic Optional sub-topic/descriptor.extension **
+
+Examples:
+
+* 2019-1-16 Everlasting Moments intro.mov
+* 2019-1-16 Everlasting Moments QA.mov
+* 2019-1-31 Adaptation and Transformation with Mary Zimmerman and Stan Lai.mov
 
 ## Funder or Partner Institution Logos
 

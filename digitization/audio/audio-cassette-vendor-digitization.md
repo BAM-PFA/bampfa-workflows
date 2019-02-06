@@ -28,10 +28,10 @@ Tapes will be pulled in 3 batches for digitization at MediaPreserve. Their  ship
 
 
 ## Receiving tapes & files
-Tapes will be received in the same batches as they were originally shipped. 
+Tapes will be received in the same batches as they were originally shipped.
 
 * Check that tapes returned match those on the original shipping manifest
-* Check that each cassette and case match 
+* Check that each cassette and case match
 * Mount hard drive received from vendor as read-only
   * Check that file names received from vendor match object IDs specified on manifest
     * Manifest specifies an A-side filename for each tape
